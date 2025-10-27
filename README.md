@@ -25,7 +25,7 @@ Passionate about spatial analysis, data management, and automation with Python. 
 ---
 
 ## Tools
-<img src="./assets/python.png" alt="Python" width="48" /> <img src="./assets/postgrest.png" alt="PostgREST" width="48" /> <img src="./assets/sql.png" alt="SQL" width="48" /> <img src="./assets/qgis.png" alt="QGIS" width="48" />
+<img src="./assets/sql1.png" alt="SQL" width="48" /> <img src="./assets/python.png" alt="Python" width="48" /> <img src="./assets/postgrest.png" alt="PostgREST" width="48" /> <img src="./assets/qgis.png" alt="QGIS" width="48" />
 
 
 <!--
