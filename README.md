@@ -7,10 +7,8 @@ I'm Santiago Botero Castro. I'm a forestry engineer working on data-driven proje
 ---
 
 ## Quick facts
-- Full name: Santiago Botero Castro  
 - Email: sabotero@unal.edu.co  
-- LinkedIn: https://www.linkedin.com/in/santiago-botero-castro/  
-- CV file: [CV](./assets/CV_SantiagoBotero_EN.pdf)
+- Resume: [CV](./assets/CV_SantiagoBotero_EN.pdf)
 
 ---
 
