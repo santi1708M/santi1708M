@@ -76,4 +76,4 @@
 
 ## 🌐 Languages
 *   **Spanish:** Native
-*   **English:** B1
+*   **English:** Conversational
